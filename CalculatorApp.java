@@ -12,7 +12,7 @@ class Input
     }
 }
 
-class Multiply extends Input 
+class Multiply extends OUTPUT
 {
     void multiply() 
     {
